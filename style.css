@@ -22,8 +22,8 @@ p {
   text-align: center;
 }
   
- p.solid {
-  border-style: solid;
+ .border {
+    border-style: solid;
   }
 
 
